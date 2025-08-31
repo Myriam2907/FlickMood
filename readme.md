@@ -37,25 +37,28 @@ pip install tensorflow streamlit numpy
 
 # 5. (Optional) Train the model yourself
 python train.py
-# You can skip this because i already trained the model
+# You can skip this because I already trained the model.
+# Download the pretrained model here:
+# 👉 https://www.dropbox.com/scl/fi/mpb339v46gylo8uqe490m/sentiment_model.h5?rlkey=lue97kcxbw1y6lzo2sz8g9uzc&st=n4ydi8u4&dl=1
+
 
 # 6. Run the Streamlit app
 streamlit run app.py
 
-
 ## 📸 Demo Screenshots
 
 - 🟢 **Positive ✅**  
-  ![Positive](screenshots/positive.PNG)  
+  ![Positive](screenshots/positive.png)  
 
 - 🔴 **Negative ❌**  
-  ![Negative](screenshots/negative.PNG)  
+  ![Negative](screenshots/negative.png)  
 
 - ⚡ **Tricky (Negative)**  
-  ![Tricky](screenshots/tricky.PNG)  
+  ![Tricky](screenshots/tricky.png)  
 
 - 😏 **Sarcastic (Negative)**  
-  ![Sarcastic](screenshots/sarcastic.PNG)
+  ![Sarcastic](screenshots/sarcastic.png)  
+
 
 🔧 Tech Stack
 
