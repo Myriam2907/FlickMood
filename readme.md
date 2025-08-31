@@ -48,16 +48,16 @@ streamlit run app.py
 ## 📸 Demo Screenshots
 
 - 🟢 **Positive ✅**  
-  ![Positive](screenshots/positive.png)  
+  ![Positive](./screenshots/positive.png)  
 
 - 🔴 **Negative ❌**  
-  ![Negative](screenshots/negative.png)  
+  ![Negative](./screenshots/negative.png)  
 
 - ⚡ **Tricky (Negative)**  
-  ![Tricky](screenshots/tricky.png)  
+  ![Tricky](./screenshots/tricky.png)  
 
 - 😏 **Sarcastic (Negative)**  
-  ![Sarcastic](screenshots/sarcastic.png)  
+  ![Sarcastic](./screenshots/sarcastic.png)  
 
 
 🔧 Tech Stack
