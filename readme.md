@@ -44,7 +44,7 @@ python train.py
 
 # 6. Run the Streamlit app
 streamlit run app.py
-
+```
 ## 📸 Demo Screenshots
 
 - 🟢 **Positive ✅**  
