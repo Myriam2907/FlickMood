@@ -48,16 +48,17 @@ streamlit run app.py
 ## 📸 Demo Screenshots
 
 - 🟢 **Positive ✅**  
-  ![Positive]([./screenshots/positive.png](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/positive.png))
+  ![Positive](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/positive.png)
 
 - 🔴 **Negative ❌**  
-  ![Negative]([./screenshots/negative.png](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/negative.png))  
+  ![Negative](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/negative.png)  
 
 - ⚡ **Tricky (Negative)**  
-  ![Tricky]([./screenshots/tricky.png](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/tricky.png))  
+  ![Tricky](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/tricky.png)  
 
 - 😏 **Sarcastic (Negative)**  
-  ![Sarcastic]([./screenshots/sarcastic.png](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/sarcastic.png))  
+  ![Sarcastic](https://raw.githubusercontent.com/Myriam2907/FlickMood/main/screenshots/sarcastic.png)  
+  
 
 
 🔧 Tech Stack
