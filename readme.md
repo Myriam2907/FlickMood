@@ -60,7 +60,7 @@ streamlit run app.py
   ![Sarcastic](./screenshots/sarcastic.PNG)
 
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 Python 3.10+
 TensorFlow / Keras – LSTM for NLP
@@ -69,4 +69,4 @@ NumPy – Data processing
 IMDB dataset – Preloaded via Keras
 
 
-👩‍💻 Developed by: Myriam Ladhari
+## 👩‍💻 Developed by: Myriam Ladhari
